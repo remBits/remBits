@@ -1,6 +1,6 @@
 ![Profile banner: a computer to the left and a terminal window to the right that shows an animation of "echo Hello World" in it.](./assets/rembits-hello-world.gif)
 
-<h1> Hello there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm remBits </h1>
+<h1> Hello there! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm remBits </h1>
 
 <h2 align="left"><i>Medical Technologist</i></h2>
 <h3 align="left"><i>Medical Imaging, Radiotherapy and Medical Physics</i></h3>
@@ -10,6 +10,22 @@
 ## 📌 About Me 
   
 Hello! I'm remBits. I'm a Medical Technologist from Chile, specialized in Medical Imaging. I'm also aiming at becoming a data scientist too! I’m currently learning more about Python, R and other related technologies in the Data Science for Healthcare Course at the _Academia Hazla con Datos._ Nice to meet you!
+
+### ☢️ Why remBits?
+
+<details> <summary>Why an alias instead of your real name? </summary>
+While I could have used my legal name, I considered the use of an alias a safer option for me. It allows me to contribute while keeping my privacy.  
+
+For this purpose, I chose the alias of _remBits._ Why?
+
+* **_rem_** stands for _Roentgen Equivalent Man_ and is a unit of radiation dose. To put it simply, it's a measurement that helps estimate the effect of ionizing radiation on the human body. Historically, it's related to Willhelm Röntgen, the German physicist who discovered X-Rays. As such, this part it's related to my field of origin: radiology.
+* **_rem_** was also a way of creating comments in the BASIC language, a very old programming languages that was created with ease of use in mind. It references earlier days of computer science.
+* **_Bits_** refers to the most basic unit of information in computer science. Everyone starts from somewhere.
+* It's also written in camel case, because that's the first notation I learned, thanks to JavaScript.
+
+All in all, this is my way of expressing that I'm from the Medical Imaging field originally and this account is a reflection of my entry into a whole new world, one that requires knowledge of computer science. As an outsider, many things are new to me, but I'm more than willing to start from the most _basic_ (like _bits_) concepts and put in the work to evolve and become better. 
+
+</details>
 
 ### 🌱 Interests 
   
@@ -40,6 +56,12 @@ I'm focused mainly on Python, but I've used other technologies like R, HTML5, CS
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" height="30" alt="google colab logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo" />
 </div>
   
 ## 📚 Lifelong learning  
@@ -54,18 +76,14 @@ I'm also studying Data Science for Healthcare, as mentioned in the beginning, an
   
 <p align="center">
   <a href="https://github.com/remBits">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=remBits&cache_seconds=7200&layout=compact&theme=shades-of-purple&border_radius=10" alt="remBits's GitHub Stats" />
+    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=anuraghazra&rank_icon=github&custom_title=remBits%27%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=ambient_gradient" alt="remBits's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=remBits&theme=shades-of-purple&hide_border=true&cache_seconds=86400" alt="remBits's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=remBits&theme=shades-of-purple&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="remBits's GitHub Trophies" />
-</p>
-
-<p align="center">
   <a href="https://github.com/remBits">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=remBits&langs_count=8&layout=compact&theme=shades-of-purple&border_radius=10" alt="Top Languages" />
+    <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=donut&langs_count=5&theme=ambient_gradient" alt="Top Languages" />
   </a>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=remBits&theme=ambient-gradient" alt="remBits's GitHub Streak" width="49%" />
 </p>
 
 ## 🔗 Connect with Me
