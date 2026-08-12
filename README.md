@@ -83,10 +83,10 @@ I'm also studying Data Science for Healthcare and Data Analysis through _Grow wi
   
 <p align="center">
   <a href="https://github.com/remBits">
-    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=anuraghazra&rank_icon=github&custom_title=remBits%27%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=ambient_gradient" alt="remBits's GitHub Stats" />
+    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=remBits&rank_icon=github&custom_title=remBits%27%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=ambient_gradient" alt="remBits's GitHub Stats" />
   </a>
   <a href="https://github.com/remBits">
-    <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=donut&langs_count=5&theme=ambient_gradient" alt="Top Languages" />
+    <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=remBits&layout=donut&langs_count=5&theme=ambient_gradient" alt="Top Languages" />
   </a>
 </p>
 <p align="center">
