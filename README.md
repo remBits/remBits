@@ -72,7 +72,7 @@ I have studied a few languages. I'm fluent in English and Spanish, my mother ton
   
 I'm also studying Data Science for Healthcare, as mentioned in the beginning, and I frequent various lectures and events when possible, both online and offline. My focus is on events about informatics, medical informatics, inclusion, and university teaching. If we ever coincide, feel free to say hi! :)
   
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Stats
   
 <p align="center">
   <a href="https://github.com/remBits">
@@ -86,7 +86,7 @@ I'm also studying Data Science for Healthcare, as mentioned in the beginning, an
   <img src="https://github-readme-streak-stats.herokuapp.com?user=remBits&theme=ambient-gradient" alt="remBits's GitHub Streak" width="49%" />
 </p>
 
-## 🔗 Connect with Me
+## 📮 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/g-v-0bbb5939a/">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
