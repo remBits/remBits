@@ -9,12 +9,12 @@
 
 ## 📌 About Me 
   
-Hello! I'm remBits. I'm a Medical Technologist from Chile, specialized in Medical Imaging. I'm also aiming at becoming a data scientist too! I’m currently learning more about Python, R and other related technologies in the Data Science for Healthcare Course at the _Academia Hazla con Datos._ Nice to meet you!
+Hello! I'm remBits. I'm a Medical Technologist from Chile, specialized in Medical Imaging. I'm also aiming at becoming a data scientist too! I’m currently learning more about Python, R and other related technologies in the Data Science for Healthcare Course at the _Academia Hazla con Datos._ I'm also studying Data Analysis thanks to a _Grow with Google_ scholarship received through the _Talento Digital_ public-private Chilean initiative. Nice to meet you!
 
 ### ☢️ Why remBits?
 
 <details> <summary>Why an alias instead of your real name? </summary>
-While I could have used my legal name, I considered the use of an alias a safer option for me. It allows me to contribute while keeping my privacy.  
+While I could have used my legal name (and you can still find it through my LinkedIn!), I considered the use of an alias a safer option for me. It allows me to contribute while keeping my privacy.  
 
 For this purpose, I chose the alias of _remBits._ Why?
 
@@ -28,7 +28,8 @@ All in all, this is my way of expressing that I'm from the Medical Imaging field
 </details>
 
 ### 🌱 Interests 
-  
+
+<details> <summary>What are your interests?</summary>
 Most of my interests point towards the informatics-inclined side of my field. I find that understanding more about the way we handle data in our world, peculiar as it is, is honestly rewarding and valuable to me. During undergrad, I always thought the RIS/PACS classes were very interesting; while working on my thesis I learned more about the use of AI in the field of Medical Imaging; so the mere existence of this account is the result of that.  
   
 However, I do not think technology should move forward at the cost of others. So my other area of interest is bioethics, and has been since undergrad too. Just like we handle patients with care, safeguarding that we do not bring harm upon them, data should be handled with care too. It is indispensable that everyone who has a hand in handling or interacting with data does so in a safe, ethical, legal and fair manner, avoiding biases and exclusionary practices as much as humanly possible. Hence why my other interests are bioethics and inclusion. Even if it sounds idealistic, I believe when we all move forward as a team we bring fourth a (slightly) better world.  
@@ -39,6 +40,8 @@ One day, I'd like to go into university teaching. Right now it's much too soon f
 * Medical AI and neural networks
 * Inclusion and accessibility
 * University teaching
+  
+</details>
   
 ## ⚙️ Technologies I use
   
@@ -70,7 +73,7 @@ Truth be told, I'm always looking forward to learning something new. It is both 
   
 I have studied a few languages. I'm fluent in English and Spanish, my mother tongue. I studied Mandarin Chinese during my undergrad too, my current level is intermediate with a HSK 3. I'm also studying Japanese and Italian independently too. These are the ones that I consider my hobby and they help relax me.
   
-I'm also studying Data Science for Healthcare, as mentioned in the beginning, and I frequent various lectures and events when possible, both online and offline. My focus is on events about informatics, medical informatics, inclusion, and university teaching. If we ever coincide, feel free to say hi! :)
+I'm also studying Data Science for Healthcare and Data Analysis through _Grow with Google_, as mentioned in the beginning, and I frequent various lectures and events when possible, both online and offline. My focus is on events about informatics, medical informatics, inclusion, and university teaching. If we ever coincide, feel free to say hi! :)
   
 ## 📊 GitHub Stats
   
@@ -98,7 +101,7 @@ I'm also studying Data Science for Healthcare, as mentioned in the beginning, an
   
 ---
 > _“无论你去哪里，都要全心全意地去” —— 孔子_  
-> _(Wúlùn nǐ qù nǎ'er, dōu yào quánxīnquányì dì qù) – **Wherever you go, go with all your heart and soul. – Confucius**_
+> _(Wúlùn nǐ qù nǎlǐ, dōu yào quánxīnquányì dì qù) – **Wherever you go, go with all your heart and soul. – Confucius**_
 
 <!--
 Original text from GitHub and general "In construction" zone
