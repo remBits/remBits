@@ -71,6 +71,14 @@ I'm focused mainly on Python, but I've used other technologies like R, HTML5, CS
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo" />
 </div>
   
+<details>
+  <summary> Some of the projects I've worked on are... </summary>
+    
+  *  **_Hackathon ONE II 2025-2026 for the Eight Generation (G8) of the Oracle ONE Next Education Program:_** 6 week hackathon where we, Team 59, developed a webpage (MVP) for flight delay prediction called "Flight OnTime". Team 59 was divided into Backend and Data science sub-teams, and as part of the DS team, we compiled, cleaned and published a dataset (_parquet_ file) of about 35 million USA domestic flights and enriched it with weather information from the NOAA database. We then used this dataset to train a XGBoost model. Other deliverables, like documentation, had specific members devoted to it; I took care of documentation and coordinated information between both sub-teams mainly. Out of the almost 70 teams, we were selected as part of the 20 finalist teams and presented our project in front of the Oracle-allied businesses.
+  *  **_Hackathon NODO-Desafío Latam 2026 for the Second Generation (G2) of the NODO Program:_** 3 week hackathon where we, Team Smart Stock IA, created a webpage (MVP) aimed at helping small businesses and with inclusion and diversity as its foundational principles. Its goal was supporting business decisions by providing data about stock shortages and restocking suggestions, thanks to a CSV or XLSX file provided by the user. As part of the dev team, we implemented a simple hybrid model that analyzes sheets through simple statistics calculations or a Prophet model. It was then connected to the frontend and deployed through Render. This project was created with help of LLM tools as linters and generators; while us humans made the final decisions regarding the code and project. After finishing up the deliverables, we presented our MVP during the Demo Day and won the second place.
+  
+</details>
+  
 ## 📚 Lifelong learning  
   
 Truth be told, I'm always looking forward to learning something new. It is both fun and important – sometimes, it helps me keep up with advances in my field, other times it helps me relax hahaha. It varies by topic. 
