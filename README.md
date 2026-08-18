@@ -45,32 +45,13 @@ One day, I'd like to go into university teaching. Right now it's much too soon f
   
 ## ⚙️ Technologies I use
   
-I'm focused mainly on Python, but I've used other technologies like R, HTML5, CSS, JavaScript, MySQL, SQLite and Postgres. Regarding the latter three, I'll probably stay with Postgres. It's a work in progress.  
-  
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="R logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" height="30" alt="google colab logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo" />
-</div>
-  
+I'm focused mainly on Python, but I've used other technologies like R, HTML5, CSS, JavaScript, MySQL, SQLite and Postgres. Regarding the latter three, I'll probably stay with Postgres, although I'm also learning BigQuery thanks to the _GwG Program._ It's a work in progress.  
+
+  <p align="left">
+    <a href="https://github.com/thuongtruong109/icoziv" title="remBit's Stack was made thanks to Icoziv - Open Icoziv's repo here!">
+    <img src="https://i.icoziv.workers.dev/icons?i=python-dark,numpy-dark,pandas-dark,scikitlearn-dark,matplotlib-dark,seaborn-dark,r-dark,postgresql-dark,googlebigquery-dark,javascript,html,css,git-dark,googlecolab-dark,jira-light,trello,visualstudiocode-dark&perline=18" alt="remBit's Stack Icons">
+  </p>
+   
 <details>
   <summary> Some of the projects I've worked on are... </summary>
     
