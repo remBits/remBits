@@ -18,8 +18,8 @@ While I could have used my legal name (and you can still find it through my Link
 
 For this purpose, I chose the alias of _remBits._ Why?
 
-* **_rem_** stands for _Roentgen Equivalent Man_ and is a unit of radiation dose. To put it simply, it's a measurement that helps estimate the effect of ionizing radiation on the human body. Historically, it's related to Willhelm Röntgen, the German physicist who discovered X-Rays. As such, this part it's related to my field of origin: radiology.
-* **_rem_** was also a way of creating comments in the BASIC language, a very old programming languages that was created with ease of use in mind. It references earlier days of computer science.
+* **_rem_** stands for _Roentgen Equivalent Man_ and is a unit of radiation dose. To put it simply, it's a measurement that helps estimate the effect of ionizing radiation on the human body. Historically, it's related to Willhelm Röntgen, the German physicist who discovered X-Rays. As such, this part is related to my field of origin: radiology.
+* **_rem_** was also a way of creating comments in the BASIC language, a very old programming language that was created with ease of use in mind. It references earlier days of computer science, its humble beginnings.
 * **_Bits_** refers to the most basic unit of information in computer science. Everyone starts from somewhere.
 * It's also written in camel case, because that's the first notation I learned, thanks to JavaScript.
 
